@@ -1,4 +1,4 @@
- Algorithm of Calculation
+ Algorithm_of_Calculation
 
 Comparison of integration methods (rectangles, trapezoids, Simpson's rule) and selection of the most advantageous method.
 
